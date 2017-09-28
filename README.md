@@ -2,3 +2,4 @@
 
 input.php
 insert.php
+gs_bm_table.sql
